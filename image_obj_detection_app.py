@@ -4,7 +4,7 @@ import PIL
 from ultralytics import YOLO
 
 # st.write("Hello, World!")
-model_path = 'https://github.com/Raviteja-69/streamlitapp/blob/main/yolov8n.pt'
+model_path = 'yolov8n.pt'
 
 st.set_page_config(
     page_title='Object Detection using YOLOV8',
