@@ -1,6 +1,5 @@
 import streamlit as st
 import PIL
-
 from ultralytics import YOLO
 
 # st.write("Hello, World!")
