@@ -16,7 +16,7 @@ st.set_page_config(
 # creating sidebar
 
 with st.sidebar:
-    st.header("Image/Video")
+    st.header("Image")
     source_img = st.sidebar.file_uploader(
         "Choose an Image...",type=("jpg","jpeg","png","bmp","webp"))
 
