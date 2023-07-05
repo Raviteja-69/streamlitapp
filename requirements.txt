@@ -1,4 +1,4 @@
 opencv-python==4.5.4.60
-ultralytics
-streamlit
-pillow
+ultralytics==8.0.123
+streamlit==1.24.0
+pillow==9.5.0
